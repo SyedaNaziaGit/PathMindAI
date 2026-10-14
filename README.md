@@ -140,7 +140,7 @@ OPENWEATHER_API_KEY=your_openweathermap_api_key
 DATABASE_URL=postgresql://postgres:your_password@localhost:5432/pathmindai
 ```
 
-> ⚠️ Never commit your `.env` file. It is already covered by `.gitignore`; double-check before pushing.
+> Never commit your `.env` file. It is already covered by `.gitignore`; double-check before pushing.
 
 ### 5. (Optional) Create the PostgreSQL database
 
@@ -214,5 +214,3 @@ Suggest a 3-day weekend itinerary in Goa on a budget of ₹15,000.
 
 
 ---
-
-⭐ If you find this project useful, consider giving it a star
